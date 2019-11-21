@@ -4,7 +4,7 @@ A simple react + webpack starter pack with no cli
 # Install packages
 Run npm install
 
-# start Project in development mode
+# Start project in development mode
 Run npm run dev
 
 # Build for production
